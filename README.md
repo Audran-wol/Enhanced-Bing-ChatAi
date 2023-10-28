@@ -26,7 +26,7 @@ Safari: Tampermonkey (needs to be installed on a Mac)
 
 
 ##Step2: Install the user script
-Just browse to the script you want to install an install it via the user script manager
+Download the script file and load it into the script manager you downloaded
 
 ##Step3: Use the user script
 The script is automatically launch and things work good
